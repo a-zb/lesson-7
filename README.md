@@ -1,2 +1,2 @@
 # lesson-7
-Lesson 7
+A Formula 1, clue hunt with Python
